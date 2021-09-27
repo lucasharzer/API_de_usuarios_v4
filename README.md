@@ -2,7 +2,7 @@
 
 Rest API com Python, Flask, com banco de dados SQLAlchemy e JWT que disponibiliza um token de acesso. Possui os métodos GET (listar todas contas), DELETE (deletar uma conta), POST (cadastro de uma conta), POST (login da conta - libera o token), POST (loggout da conta - requer o token), GET (listar todos os usuários e listar usuários por id), POST (cadastrar usuario inserindo os dados: usuario_id, nome, idade, cidade e rede_id - requer o token), PUT (atualizar usuários por id - requer o token), DELETE (deletar usuários por id - requer o token), GET (listar redes e listar redes pela URL), POST (criar redes inserindo a URL - requer o token) e DELETE (deletar a rede pela URL - requer o token).
 
-OBs: É possível criar contas através do cadastro, dentro de uma conta é possível criar várias redes e dentro de uma rede é possível criar vários usuarios.
+Obs: É possível criar contas através do cadastro, dentro de uma conta é possível criar várias redes e dentro de uma rede é possível criar vários usuarios.
 
 # Comandos no terminal para configuração
 
