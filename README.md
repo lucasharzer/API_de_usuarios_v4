@@ -29,4 +29,3 @@ python principal.py
 <span align="center">
     <img src="https://user-images.githubusercontent.com/85804895/134188018-3b06c0a0-4a53-4181-97ee-121ffe2ed9d5.png", width=900>
 </span>
-
